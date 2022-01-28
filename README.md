@@ -1,5 +1,5 @@
 <h1 align="center">
-Some projects in Java, based on the ideas in this image.
+Some projects developed in Java, based on the ideas in the image below.
 </h1>
 
 
