@@ -2,7 +2,9 @@
 Some projects in Java, based on the ideas in this image.
 </h1>
 
-<img src="./assets/java-project-ideas.jpg"/>
 
 ## Easy
-### [Tic Tac Toe]()
+### [Tic Tac Toe](https://github.com/medeirosamandas/java-projects/tree/main/tic-tac-toe)
+
+<br>
+<img src="./assets/java-project-ideas.jpg"/>
