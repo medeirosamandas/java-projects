@@ -152,11 +152,6 @@ public class TicTacToe {
                 }
                 //secondary diagonal
                     if(i+j ==size-1){
-                    System.out.println("Diagonal secundária");
-                    System.out.println("i " +i);
-                    System.out.println("j "+j);
-                    System.out.println("count1Secondary "+count1Secondary);
-                    System.out.println("count2Secondary "+count2Secondary);
                     if(matrix[i][j] == player1) count1Secondary++;
                     if(matrix[i][j] == player2) count2Secondary++;
                     if(count1Secondary == 3 || count2Secondary == 3){
